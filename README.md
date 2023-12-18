@@ -24,8 +24,8 @@ For more details, please see our code repository: [Arduino](https://github.com/d
 
 We have successfully deployed a robot system capable of navigating, detecting bottles, and avoiding obstacles with a price range of $341 to $400. This result fits the initial scope of this project. However, the Jetson Nano's processing speed and object detection model's rate are still relatively slow; the lidar can be optimized with the implementation of ROS SLAM simulation. In addition, the robot's electronic components are not covered, making them susceptible to damage and malfunction. Future research should focus on resolving these proposed issues.
 
-Images and videos of this robot can be found here: Media.
+Images and videos of this robot can be found here: [Media](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Results/Media).
 
 **Report**
 
-For further information, please refer to our report: [View on GitHub](https://github.com/dngvmnh/Trash_Collecting_Robot/blob/main/Results/PII%20-%20Report%20-%20FUV.pdf) or [Download PDF](https://github.com/dngvmnh/Trash_Collecting_Robot/raw/main/Results/PII%20-%20Report%20-%20FUV.pdf).
+For further information, please refer to our report: [View on GitHub](https://github.com/dngvmnh/Trash_Collecting_Robot/blob/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf) or [Download PDF](https://github.com/dngvmnh/Trash_Collecting_Robot/raw/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf).
