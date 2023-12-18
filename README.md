@@ -1,4 +1,4 @@
-**Project Description**
+## Project Description
 
 **1. Overview**
 
@@ -8,7 +8,7 @@ This is an autonomous bottle-collecting robot that uses computer vision to detec
 
 This research project is carried out as part of the PTNK Innovation Initiative (PII) Summer Research Internship Program under the topic "4d. Smart Robot" at Makerspace - Fulbright University Vietnam from June 15, 2023, to September 5, 2023. The program is established and run by PTNK (VNU-HCM High School for the Gifted) STEAM CLUB.
 
-**Implementation**
+## Implementation
 
 The implementation of this robot includes three main stages: designing its mechanics, assembling electronic components, and establishing its software.
 
@@ -20,12 +20,12 @@ The implementation of this robot includes three main stages: designing its mecha
 
 For more details, please see our code repository: [Arduino](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Arduino), [Bottle Detection](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Bottle_Detection).
 
-**Results and discussion**
+## Results and discussion
 
 We have successfully deployed a robot system capable of navigating, detecting bottles, and avoiding obstacles with a price range of $341 to $400. This result fits the initial scope of this project. However, the Jetson Nano's processing speed and object detection model's rate are still relatively slow; the lidar can be optimized with the implementation of ROS SLAM simulation. In addition, the robot's electronic components are not covered, making them susceptible to damage and malfunction. Future research should focus on resolving these proposed issues.
 
 Images and videos of this robot can be found here: [Media](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Results/Media).
 
-**Report**
+## Report
 
 For further information, please refer to our report: [View on GitHub](https://github.com/dngvmnh/Trash_Collecting_Robot/blob/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf) or [Download PDF](https://github.com/dngvmnh/Trash_Collecting_Robot/raw/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf).
