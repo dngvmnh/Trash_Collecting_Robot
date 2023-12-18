@@ -28,4 +28,4 @@ Images and videos of this robot can be found here: Media.
 
 **Report**
 
-For further information, please refer to our report: [View on GitHub](https://github.com/dngvmnh/Trash_Collecting_Robot/blob/main/Results/PII%20-%20Report%20-%20FUV.pdf) or [Download PDF](https://github.com/dngvmnh/Trash_Collecting_Robot/raw/Results/PII%20-%20Report%20-%20FUV.pdf).
+For further information, please refer to our report: [View on GitHub](https://github.com/dngvmnh/Trash_Collecting_Robot/blob/main/Results/PII%20-%20Report%20-%20FUV.pdf) or [Download PDF](https://github.com/dngvmnh/Trash_Collecting_Robot/raw/main/Results/PII%20-%20Report%20-%20FUV.pdf).
