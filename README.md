@@ -1,12 +1,21 @@
+## DEMO
+**1. Avoiding Obstacle**
+
+https://github.com/dngvmnh/Trash_Collecting_Robot/assets/133772077/437811a4-796f-4ca2-8b43-bc99f503405b
+
+**2. Collecting Trash**
+
+https://github.com/dngvmnh/Trash_Collecting_Robot/assets/133772077/6178367e-3c0c-499e-90b9-56f9d1f73c19
+
 ## Project Description
 
 **1. Overview**
 
-This is an autonomous bottle-collecting robot that uses computer vision to detect bottles and lidar algorithms to avoid obstacles. Plastic trash pollution is on the rise in modern times, with dire consequences for the environment. However, automatic trash-collecting robots on the market today are difficult to obtain and quite complicated. Previous deployments of automated systems for the same task had not been optimized in terms of cost and hardware. After designing, simulating obstacle avoidance algorithms, and retraining the object detection model, the goal of this research is to improve and create a more optimized robot system. Its findings can be used in future similar research.
+This is an autonomous bottle-collecting robot that uses computer vision to detect bottles and lidar algorithms to avoid obstacles. Plastic trash pollution is on the rise in modern times, with alarming consequences for the environment. However, using the present automatic trash-collecting robots on the market is challenging and intricate. Previous deployments of automated systems for the same task had not been optimized in terms of cost and hardware. After designing, simulating obstacle avoidance algorithms, and retraining the object detection model, the aim of this research is to enhance and develop a more effecient robotic system. Its results can be applied to subsequent research in the same field.
 
 **2. The PII program**
 
-This research project is carried out as part of the PTNK Innovation Initiative (PII) Summer Research Internship Program under the topic "4d. Smart Robot" at Makerspace - Fulbright University Vietnam from June 15, 2023, to September 5, 2023. The program is established and run by PTNK (VNU-HCM High School for the Gifted) STEAM CLUB.
+This research project is carried out as part of the PTNK Innovation Initiative (PII) Summer Research Internship Program under the topic "4d. Smart Robot" at Makerspace - Fulbright University Vietnam from June 15, 2023, to September 5, 2023. The program is established and ran by PTNK (VNU-HCM High School for the Gifted) STEAM Club.
 
 ## Implementation
 
