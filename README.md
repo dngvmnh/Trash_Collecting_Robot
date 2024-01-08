@@ -1,11 +1,11 @@
 ## DEMO
 **1. Avoiding Obstacle**
 
-https://github.com/dngvmnh/Trash_Collecting_Robot/assets/133772077/437811a4-796f-4ca2-8b43-bc99f503405b
+https://github.com/dngvmnh/Trash_Collecting_Robot/assets/133772077/0d24710b-7814-45a0-8826-957f754a2fe8
 
 **2. Collecting Trash**
 
-https://github.com/dngvmnh/Trash_Collecting_Robot/assets/133772077/6178367e-3c0c-499e-90b9-56f9d1f73c19
+https://github.com/dngvmnh/Trash_Collecting_Robot/assets/133772077/7494913d-235f-4eb4-9d58-ff773b87debb
 
 ## Project Description
 
