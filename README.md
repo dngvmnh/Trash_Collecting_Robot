@@ -11,7 +11,7 @@ https://github.com/dngvmnh/Trash_Collecting_Robot/assets/133772077/7494913d-235f
 
 **1. Overview**
 
-This is an autonomous bottle-collecting robot that uses computer vision to detect bottles and lidar algorithms to avoid obstacles. Plastic trash pollution is on the rise in modern times, with alarming consequences for the environment. However, using the present automatic trash-collecting robots on the market is challenging and intricate. Previous deployments of automated systems for the same task had not been optimized in terms of cost and hardware. After designing, simulating obstacle avoidance algorithms, and retraining the object detection model, the aim of this research is to enhance and develop a more effecient robotic system. Its results can be applied to subsequent research in the same field.
+This is an autonomous bottle-collecting robot that uses computer vision to detect bottles and lidar algorithms to avoid obstacles. Plastic trash pollution is on the rise in modern times, with alarming consequences for the environment. However, using the present automatic trash-collecting robots on the market is challenging and intricate. Previous deployments of automated systems for the same task had not been optimized in terms of cost and hardware. After designing, simulating obstacle avoidance algorithms, and retraining the object detection model, the aim of this research is to enhance and develop a more efficient robotic system. Its results can be applied to subsequent research in the same field.
 
 **2. The PII program**
 
