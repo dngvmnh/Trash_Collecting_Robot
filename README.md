@@ -21,20 +21,20 @@ This research project is carried out as part of the PTNK Innovation Initiative (
 
 The implementation of this robot includes three main stages: designing its mechanics, assembling electronic components, and establishing its software.
 
-● Our 3D design file can be found here: [Design folder](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Robot_Design).
+● The 3D design file can be found here: [Design folder](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Robot_Design).
 
-● We used an Arduino Uno and Jetson Nano as controllers; DC motors as actuators; and an RPLidar and webcam as sensors.
+● Arduino Uno and Jetson Nano were used as controllers; DC motors as actuators; and an RPLidar and webcam as sensors.
 
-● There are three main programs for this robot: bottle detection, obstacle avoidance, and controlling the motors. Arduino Uno and Jetson Nano communicate through the serial port. Bottle detection and obstacle avoidance algorithms are joined by multi-threading. For optimizing the object detection model, we trained the TinyYoloV3 with an available dataset. An equation for calculating the distance to a bottle from the camera's image is formed.
+● There are three main programs for this robot: bottle detection, obstacle avoidance, and controlling the motors. Arduino Uno and Jetson Nano communicate through the serial port. Bottle detection and obstacle avoidance algorithms are joined by multi-threading. For optimizing the object detection model, the TinyYoloV3 was trained with an available dataset. An equation for calculating the distance to a bottle from the camera's image is formed.
 
-For more details, please see our code repository: [Arduino](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Arduino), [Bottle Detection](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Bottle_Detection).
+For more details, refer to this repository: [Arduino](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Arduino), [Bottle Detection](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Bottle_Detection).
 
 ## Results and discussion
 
-We have successfully deployed a robot system capable of navigating, detecting bottles, and avoiding obstacles with a price range of $341 to $400. This result fits the initial scope of this project. However, the Jetson Nano's processing speed and object detection model's rate are still relatively slow; the lidar can be optimized with the implementation of ROS SLAM simulation. In addition, the robot's electronic components are not covered, making them susceptible to damage and malfunction. Future research should focus on resolving these proposed issues.
+A robot system capable of navigating, detecting bottles, and avoiding obstacles with a price range of $341 to $400 was successfully deployed. This result fits the initial scope of this project. However, the Jetson Nano's processing speed and object detection model's rate are still relatively slow; the lidar can be optimized with the implementation of ROS SLAM simulation. In addition, the robot's electronic components are not covered, making them susceptible to damage and malfunction. Future research should focus on resolving these proposed issues.
 
 Images and videos of this robot can be found here: [Media](https://github.com/dngvmnh/Trash_Collecting_Robot/tree/main/Results/Media).
 
 ## Report
 
-For further information, please refer to our report: [View on GitHub](https://github.com/dngvmnh/Trash_Collecting_Robot/blob/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf) or [Download PDF](https://github.com/dngvmnh/Trash_Collecting_Robot/raw/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf).
+For further information, refer to this report: [View on GitHub](https://github.com/dngvmnh/Trash_Collecting_Robot/blob/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf) or [Download PDF](https://github.com/dngvmnh/Trash_Collecting_Robot/raw/main/Results/Report/PII%20-%20Report%20-%20FUV.pdf).
